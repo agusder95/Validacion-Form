@@ -1,2 +1,2 @@
 # Validacion-Form
-Validacion mediante JS
+Validacion de Formularios utilizando JavaScript
